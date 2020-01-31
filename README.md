@@ -16,4 +16,4 @@ by visiting localhost:PORT_NUMBER/PATH on your web browser.
 
 Replace PORT_NUMBER with the port number you inputted above.
 
-Replace PATH with any of the files in the WWW directory.
+Replace PATH with a relative path to any file in the WWW directory.
